@@ -6,3 +6,4 @@ This project contains a data matrix of U.S. business cycles dating back to 1855,
  A time series heatmap tracks U.S. business cycles from 1855 to 2021.
  
  Red colored blocks indicate recession months dated by NBER.
+
