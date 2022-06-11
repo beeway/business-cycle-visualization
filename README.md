@@ -8,4 +8,4 @@ The second project visualizes key financial and macroeconomic indicators over th
  * Real Productions
  * Labor Conditions
 
- Stay tune, more visualizations to come!
+ Stay tune, more vista to come!
