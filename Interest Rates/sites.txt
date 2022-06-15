@@ -1,0 +1,12 @@
+
+
+FRB Rates - discount, fed funds, primary credit
+https://fred.stlouisfed.org/categories/118
+
+EFFR
+https://fred.stlouisfed.org/series/FEDFUNDS
+
+Federal Reserve Board data download program
+https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15
+
+All monthly yields start from 195304
