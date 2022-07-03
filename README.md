@@ -7,5 +7,7 @@ The second project visualizes key financial and macroeconomic indicators over th
  * Inflation Rates
  * Real Productions
  * Labor Conditions
+ * Money and Credit
+ * Finanical Assets
 
  Stay tune, more vista to come!
