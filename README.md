@@ -5,9 +5,9 @@ The first project contains a data matrix of U.S. business cycles dating back to 
 The second project visualizes key financial and macroeconomic indicators over the the U.S. business cycles.
  * Interest Rates
  * Inflation Rates
+ * Finanical Assets
  * Real Productions
  * Labor Conditions
  * Money and Credit
- * Finanical Assets
 
  Stay tune, more vista to come!
