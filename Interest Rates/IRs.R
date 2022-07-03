@@ -2,7 +2,7 @@
 library("readxl")
 mir=read_excel("1954.xlsx")
 
-# graph the rolling unconditional recession probability time series
+# generate the time series for date 
 date=seq(as.Date('1954-07-01'), to=as.Date('2022-05-01'), format="%Y%m" , by="month")
 md=data.frame(date, mir[,-1])
 
