@@ -10,4 +10,4 @@ The second project plots key financial and macroeconomic indicators over the the
  * Labor Conditions
  * Money and Credit
 
- Stay tune, more vista to come!
+ Updating, more vista to come!
