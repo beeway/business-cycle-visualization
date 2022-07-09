@@ -12,6 +12,6 @@ The second project plots key financial and macroeconomic indicators over the the
  * Labor Conditions
  * Money and Credit
 
-The third project extends the second project further back in history but with only annual data availability.
+The third project extends the second project further back in history to the mid 19th century, but with only annual data availability.
  
  Updating, more vista to come!
