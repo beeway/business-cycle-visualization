@@ -6,9 +6,9 @@ The first project, as shown in usbc1 and usbc2, contains a data matrix of U.S. b
 
 The second project plots key financial and macroeconomic indicators over the the U.S. business cycles since around 1950s.
  * Interest Rates
- * Output & Income
  * Inflation Rates
  * Finanical Assets
+ * Output & Income
  * Labor Conditions
  * Money and Credit
 
