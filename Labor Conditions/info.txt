@@ -1,0 +1,67 @@
+
+
+https://fred.stlouisfed.org/series/UNRATE
+https://fred.stlouisfed.org/series/CIVPART
+https://fred.stlouisfed.org/series/EMRATIO
+
+https://beta.bls.gov/dataViewer/view/timeseries/LNS14000000
+
+
+Frequency:  Monthly
+
+The unemployment rate represents the number of unemployed as a percentage of the labor force. Labor force data are restricted to people 16 years of age and older, who currently reside in 1 of the 50 states or the District of Columbia, who do not reside in institutions (e.g., penal and mental facilities, homes for the aged), and who are not on active duty in the Armed Forces. 
+
+This rate is also defined as the U-3 measure of labor underutilization. 
+
+The series comes from the 'Current Population Survey (Household Survey)' 
+
+The source code is: LNS14000000
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Unemployment Rate [UNRATE], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/UNRATE, July 2, 2022.
+
+
+======================
+
+Source: U.S. Bureau of Labor Statistics   Release: Employment Situation  
+Units:  Percent, Seasonally Adjusted
+
+Frequency:  Monthly
+
+The series comes from the 'Current Population Survey (Household Survey)' 
+The source code is: LNS11300000 
+
+The Labor Force Participation Rate is defined by the Current Population Survey (CPS) as “the number of people in the labor force as a percentage of the civilian noninstitutional population […] the participation rate is the percentage of the population that is either working or actively looking for work.” 
+
+The Labor Force Participation Rate is collected in the CPS and published by the BLS. It is provided on a monthly basis, so this data is used in part by macroeconomists as an initial economic indicator of current labor market trends. The labor force participation rate helps government agencies, financial markets, and researchers gauge the overall health of the economy. 
+
+Note that long-run changes in labor force participation may reflect secular economic trends that are unrelated to the overall health of the economy. For instance, demographic changes such as the aging of population can lead to a secular increase of exits from the labor force, shrinking the labor force and decreasing the labor force participation rate. 
+
+For more information, see: 
+U.S. Bureau of Labor Statistics, CES Overview 
+U.S. Bureau of Labor Statistics, Concepts and Definitions (CPS)
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Labor Force Participation Rate [CIVPART], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CIVPART, July 8, 2022.
+
+======================
+
+Employment-Population Ratio  (EMRATIO)
+Source: U.S. Bureau of Labor Statistics   Release: Employment Situation  
+Units:  Percent, Seasonally Adjusted
+
+Frequency:  Monthly
+
+The series comes from the 'Current Population Survey (Household Survey)'
+
+The source code is: LNS12300000
+
+Suggested Citation:
+U.S. Bureau of Labor Statistics, Employment-Population Ratio [EMRATIO], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/EMRATIO, July 8, 2022.
+
+
+=======================
+
+
+Macro history  1929-
+https://fred.stlouisfed.org/categories/33069
