@@ -13,5 +13,7 @@ The second project plots key financial and macroeconomic indicators over the the
  * Money and Credit
 
 The third project extends the second project further back in history to the mid 19th century, but with only annual data availability.
+
+The final project examines commodity and oil prices over the long swing of business cycles, providing insight for investment strategy.
  
  Updating, more vista to come!
